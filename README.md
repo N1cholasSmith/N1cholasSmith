@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N1cholasSmith
-- 👀 I’m interested in Software Engineering, Constellation Network, BigData, DAG, Cybersecurity, Blockchain, Crypto, Autonomous Driving
-- 🌱 I’m currently learning Full Stack Web development
-- 💞️ I’m looking to for a place to start my career.
+- 👀 I’m interested in Software Engineering, Constellation Network, BigData, DAG, Cybersecurity, Blockchain, Crypto, Autonomous Driving, Smart Cities, HGTP
+- 🌱 I’m currently learning Full Stack Web development 
+- 💞️ I’m looking to for a place to start my career as a Software engineer
 - 📫 How to reach me NicholasSmithSoftwareEngineer@gmail.com
 
 <!---
