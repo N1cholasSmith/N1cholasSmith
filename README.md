@@ -4,10 +4,11 @@
 - 💞️ I’m looking to for a place to start my career as a Software engineer
 - 📫 How to reach me NicholasSmithSoftwareEngineer@gmail.com
 
-<!---
-N1cholasSmith/N1cholasSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Skills
+Front End - HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, Local Storage, Session Storage, IndexedDB, Responsive design
+Back End - API, JSON, AJAX, Node.js, Express.js, User Authentication, Progressive Web Applications (PWAs), MangoDB
+Computer Science - Algorithms, Data Structures, Time Complexity, Efficiency, Big O Notation
+Data Management - Computer Aided Maintenance Data Manager (CAMM2)
 
 If your company would benefit greatly from having a ruthlessly professional leader with a passion for innovative technologies, I am the perfect candidate. I have been recognized publicly with a commendation for performing exceptionally well during my Navy Leadership Promotion Course. I promote a culture that strives for continual development, excellence, leadership, and innovation. I believe these are key defining factors that set a team up for success. Through my leadership, I can motivate and influence members to achieve goals as a collective while promoting team cohesiveness. One of my strongest qualities is my ability to be a logical thinker, which I utilize to troubleshoot problems and issues. I can break them down in a logical manner to solve them effectively and efficiently. 
 
