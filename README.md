@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @N1cholasSmith
 - 👀 I’m interested in Software Engineering, Constellation Network, BigData, DAG, Cybersecurity, Blockchain, Crypto, Autonomous Driving, Smart Cities, HGTP
-- 🌱 I’m currently learning Full Stack Web development 
+- 🌱 I’m currently a Software Engineer
 - 💞️ I’m looking to for a place to start my career as a Software engineer
-- 📫 How to reach me NicholasSmithSoftwareEngineer@gmail.com
+- 📫 How to reach me: 
+- NicholasSmithSoftwareEngineer@gmail.com
+- https://www.linkedin.com/in/nicholas-smith-softwareengineer/
 
 Having achieved a significant number of goals in my career as a Royal Australian Navy Leading Seaman Aircraft Technician, I am interested in expanding my professional horizons  
 by seeking new challenges in the area of software engineering. I believe that you will find me as a dedicated individual who is well qualified to contribute to your 
@@ -40,6 +42,8 @@ seamlessly to various technical and creative environments.
 standard of service delivery. 
 •	Works well in a team and has high emotional intelligence which is utillised to unfluence and motivate others to acheive.
 
-Attached herewith is my resume for further details on my employment history and skills. I would appreciate the chance to meet with you about this employment opportunity. I am
+in my resume for further details on my employment history and skills. I would appreciate the chance to meet with you about this employment opportunity. I am
 available for an interview, at your convenience.
+
+
 
