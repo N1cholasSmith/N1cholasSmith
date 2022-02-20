@@ -28,11 +28,14 @@ problem-solving skills, I take a proactive approach to delving into and resolvin
          
 Other key skills and personal attributes I possess that I believe will help me succeed in this position are:
 Technical Skills 
+
 •	Well-developed skills in HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, Local Storage, Session Storage, Responsive Design, API, JSON, AJAX, Node.js, Express.js, JWT, User
 Authentication, Progressive Web Applications (PWA's), MongoDB, Mongoose, Algorithms, Data Structures, Time Complexity, Big O Notation, GraphQL, Apollo, Google Analytics and AWS.
+
 Soft Skills 
 •	Flexible and adaptable; willing to learn, eager to acquire new skills and master new systems, to remain knowledgeable and up to date with industry practices while adapting
 seamlessly to various technical and creative environments. 
+
 •	Exceptional organisational and prioritisation skills; can successfully manage tight deadlines, unpredictable volumes of work and changing priorities whilst maintaining a high
 standard of service delivery. 
 •	Works well in a team and has high emotional intelligence which is utillised to unfluence and motivate others to acheive.
